@@ -6,4 +6,4 @@
 
 void initSerial(unsigned long  baudrate);  // Function declaration
 
-#endif // SERIAL_MANAGER_H
+#endif // !SERIAL_MANAGER_H

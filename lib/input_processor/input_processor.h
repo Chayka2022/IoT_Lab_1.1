@@ -2,7 +2,7 @@
 #define COMMAND_PROCESSOR_H
 
 #include <Arduino.h>
-#include "dd_led.h"  // Include LED control
+#include "dd_led.h"
 #include "config.h"
 
 void inputProcessor();  // Function declaration
